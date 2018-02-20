@@ -2,6 +2,8 @@
 // by Muhamad Haddawi Hermawan Hacktiv8 Phase 0 Quantum Fox
 
 function angkaPrima(angka) {
+    var i;
+
     for (i = 2; i < angka; i++) {
         if (angka%i === 0) {
             return false;
