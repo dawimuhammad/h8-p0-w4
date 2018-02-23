@@ -1,4 +1,4 @@
-//  Exercise 4 Week 4 Case 'Mengubah Kata'
+//  Exercise 8 Week 4 Case 'Mengurutkan Abjad'
 //  by Muhamad Haddawi Hacktiv8 Student Phase 0 Batch QFox
 
 function urutkanAbjad(str) {
