@@ -1,4 +1,4 @@
-//  Exercise 4 Week 4 Case 'Mengubah Kata'
+//  Exercise 5 Week 4 Case 'Mengubah Kata'
 //  by Muhamad Haddawi Hacktiv8 Student Phase 0 Batch QFox
 
 function ubahHuruf(kata) {
